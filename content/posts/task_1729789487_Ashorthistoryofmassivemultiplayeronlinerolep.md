@@ -1,14 +1,26 @@
 ---
-title: "A Short History of Massive Multiplayer Online Role-Playing Games (MMORPGs)"
-excerpt: "Massive Multiplayer Online Role-Playing Games (MMORPGs) have become a significant genre in the gaming industry, captivating millions of players worldwide. These games offer expansive virtual worlds where players can interact, collaborate, and compete with each other in real-time. The evolution of MMORPGs is a fascinating journey that reflects technological advancements, changes in player preferences, and the increasing importance of online communities. This report provides an in-depth exploration of the history of MMORPGs, examining their origins, development, and impact on the gaming industry."
-coverImage: "/assets/blog/mmorpg.jpg"
-date: "2024-10-25"
+title: A Short History of Massive Multiplayer Online Role-Playing Games (MMORPGs)
+excerpt: >-
+  Massive Multiplayer Online Role-Playing Games (MMORPGs) have become a
+  significant genre in the gaming industry, captivating millions of players
+  worldwide. These games offer expansive virtual worlds where players can
+  interact, collaborate, and compete with each other in real-time. The evolution
+  of MMORPGs is a fascinating journey that reflects technological advancements,
+  changes in player preferences, and the increasing importance of online
+  communities. This report provides an in-depth exploration of the history of
+  MMORPGs, examining their origins, development, and impact on the gaming
+  industry.
+coverImage: /assets/blog/mmorpg.jpg
+date: '2024-10-25'
 author:
-  name: OpenAI. (2024). ChatGPT (08 06 version) [Large language model]. https://api.openai.com
-  picture: "/assets/blog/authors/cover.jpg"
+  name: >-
+    OpenAI. (2024). ChatGPT (08 06 version) [Large language model].
+    https://api.openai.com
+  picture: /assets/blog/authors/cover.jpg
 ogImage:
-  url: "/assets/blog/mmorpg.jpg"
+  url: /assets/blog/mmorpg.jpg
 ---
+
 # A Short History of Massive Multiplayer Online Role-Playing Games (MMORPGs)
 
 ## Introduction
