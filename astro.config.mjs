@@ -9,9 +9,9 @@ import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
 import { defineConfig } from 'astro/config'
 import react from '@astrojs/react'
-import tina from 'astro-tina'
+import tina from 'astro-tina';
 import { defineConfig } from 'astro/config'
-import react from '@astrojs/react'
+import react from '@astrojs/react';
 import tina from 'astro-tina'
 
 // https://astro.build/config
