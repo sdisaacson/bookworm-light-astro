@@ -2,6 +2,7 @@
   "name": "bookworm-light-astro",
   "version": "2.0.2",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
     "prebuild": "node scripts/replaceAssetPaths.js",

@@ -8,10 +8,13 @@ authors: ["OpenAI"]
 tags: ["AI"]
 draft: false
 ---
+
 # American Conservatism and Its Racist History with African Americans
+
 #### Date: 30/08/2024
 
 ## Introduction
+
 The relationship between American conservatism and African Americans is a complex and multifaceted one, deeply rooted in the nation's history and evolving political landscape. Following the American Civil War, African Americans initially aligned with the Republican Party, which was founded as an anti-slavery party. This allegiance was solidified by President Abraham Lincoln's leadership and the abolition of slavery with the Thirteenth Amendment in 1865 ([NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10052273/)). However, the political landscape began to shift in the 1930s with Franklin D. Roosevelt's New Deal, which provided socio-economic relief during the Great Depression, and further solidified in the 1960s with the Democratic Party's support for civil rights legislation ([NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10052273/)).
 
 Despite the general trend of African Americans supporting the Democratic Party, a segment of the community began to embrace conservative values in the late 20th century. This was partly due to the efforts of African American conservative scholars and experts who advocated for free-market policies and traditional Christian values ([NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10052273/)). However, the Republican Party's strategic shifts, such as Nixon's Southern Strategy and Reagan's economic policies, often alienated African American voters by appealing to racial tensions and implementing policies that disproportionately affected African American communities ([American Yawp](https://www.americanyawp.com/text/29-the-triumph-of-the-right/)).
@@ -23,6 +26,7 @@ Black conservatism, while often misunderstood, has a rich history and ideologica
 This research report aims to explore the historical context, ideological foundations, and contemporary dynamics of American conservatism and its relationship with African Americans. By examining the evolution of political alignments, the rise of black conservatism, and the impact of systemic racism, this report seeks to provide a comprehensive understanding of this complex and multifaceted topic.
 
 ## Table of Contents
+
 - The Evolution of African American Political Alignment
   - Post-Civil War Republican Loyalty
   - Shift to the Democratic Party
@@ -248,6 +252,7 @@ Media plays a crucial role in shaping public perceptions of the intersection bet
 As America continues to grapple with its racial history, the intersection of conservatism and racism remains a contentious issue. The future of this relationship will likely be shaped by demographic changes, evolving social attitudes, and the ongoing struggle for racial justice. Whether conservatism can adapt to a more diverse and equitable society remains an open question, with significant implications for American politics and social cohesion ([Springer](https://link.springer.com/article/10.1007/s42533-020-00057-5)).
 
 ## Conclusion
+
 The historical and contemporary relationship between American conservatism and African Americans is a nuanced and multifaceted one, shaped by a complex interplay of political, social, and economic factors. From the initial post-Civil War alignment with the Republican Party to the significant shift towards the Democratic Party during the New Deal and Civil Rights eras, African American political alignment has been influenced by the evolving landscape of American politics and the parties' stances on civil rights and socio-economic issues ([NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10052273/)).
 
 The rise of black conservatism in the late 20th century highlights the diversity of thought within the African American community. Despite the broader trend of African American support for the Democratic Party, a segment of the community has embraced conservative values, emphasizing self-reliance, personal responsibility, and traditional Christian values ([NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10052273/)). However, the Republican Party's strategic shifts, such as Nixon's Southern Strategy and Reagan's economic policies, have often alienated African American voters by appealing to racial tensions and implementing policies that disproportionately affected African American communities ([American Yawp](https://www.americanyawp.com/text/29-the-triumph-of-the-right/)).
@@ -259,6 +264,7 @@ Black conservatism, while often misunderstood, offers a unique perspective on th
 As the United States continues to grapple with its racial history and the ongoing struggle for equality, the future of conservatism will likely depend on its ability to navigate these challenges and build a more inclusive and equitable political vision. The evolution of black conservatism and the broader conservative movement highlights the importance of understanding the diverse perspectives within the African American community and the complex dynamics of race and politics in America.
 
 ## References
+
 - NCBI, 2023, [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10052273/)
 - American Yawp, 2023, [source](https://www.americanyawp.com/text/29-the-triumph-of-the-right/)
 - Oxford Academic, 2023, [source](https://academic.oup.com/book/10706/chapter/158772527)
