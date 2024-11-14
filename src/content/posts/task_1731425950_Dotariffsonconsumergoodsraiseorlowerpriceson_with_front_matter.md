@@ -24,47 +24,43 @@ In conclusion, while tariffs are intended to protect domestic industries and gen
 ## Table of Contents
 
 - Impact of Tariffs on Consumer Prices
-    - Tariff Pass-Through to Consumer Prices
-    - Sector-Specific Impacts on Consumer Prices
-    - Inflationary Effects of Tariffs
-    - Tariffs as a Regressive Tax
-    - Strategic Responses by Businesses
-    - Profit-Led Inflation and Consumer Perception
-    - Long-Term Economic Implications
-    - Consumer Behavioral Changes
-    - Conclusion
+  - Tariff Pass-Through to Consumer Prices
+  - Sector-Specific Impacts on Consumer Prices
+  - Inflationary Effects of Tariffs
+  - Tariffs as a Regressive Tax
+  - Strategic Responses by Businesses
+  - Profit-Led Inflation and Consumer Perception
+  - Long-Term Economic Implications
+  - Consumer Behavioral Changes
+  - Conclusion
 - Economic Consequences of Tariffs on Consumer Goods
-    - Tariff-Induced Supply Chain Disruptions
-    - Effects on Domestic Production and Employment
-    - Impact on Consumer Choice and Product Variety
-    - Retaliatory Tariffs and Global Trade Tensions
-    - Macroeconomic Effects of Tariff Policies
+  - Tariff-Induced Supply Chain Disruptions
+  - Effects on Domestic Production and Employment
+  - Impact on Consumer Choice and Product Variety
+  - Retaliatory Tariffs and Global Trade Tensions
+  - Macroeconomic Effects of Tariff Policies
 - Pass-Through Effects of Tariffs to Consumers
-    - Tariff Pass-Through Mechanisms
-    - Factors Influencing Tariff Pass-Through
-    - Case Studies of Tariff Pass-Through
-        - Washing Machines
-        - Steel and Aluminum
-    - Implications for Consumer Spending
-    - Long-Term Economic Effects
-    - Policy Considerations
+  - Tariff Pass-Through Mechanisms
+  - Factors Influencing Tariff Pass-Through
+  - Case Studies of Tariff Pass-Through
+    - Washing Machines
+    - Steel and Aluminum
+  - Implications for Consumer Spending
+  - Long-Term Economic Effects
+  - Policy Considerations
 - Inflationary Effects of Tariffs on Consumer Goods
-    - Inflationary Dynamics Triggered by Tariffs
-    - Supply Chain and Input Cost Inflation
-    - Profit-Led Inflation and Market Dynamics
-    - Wage-Price Spiral and Inflationary Expectations
-    - Policy Responses and Economic Implications
+  - Inflationary Dynamics Triggered by Tariffs
+  - Supply Chain and Input Cost Inflation
+  - Profit-Led Inflation and Market Dynamics
+  - Wage-Price Spiral and Inflationary Expectations
+  - Policy Responses and Economic Implications
 - Tariffs and Domestic Production
-    - Tariff Impact on Domestic Supply Chains
-    - Domestic Production Incentives and Challenges
-    - Tariff-Induced Production Shifts
-    - Effects on Domestic Employment
-    - Domestic Market Dynamics and Consumer Prices
-    - Tariff-Induced Innovation and Investment
-
-
-
-
+  - Tariff Impact on Domestic Supply Chains
+  - Domestic Production Incentives and Challenges
+  - Tariff-Induced Production Shifts
+  - Effects on Domestic Employment
+  - Domestic Market Dynamics and Consumer Prices
+  - Tariff-Induced Innovation and Investment
 
 ## Impact of Tariffs on Consumer Prices
 
@@ -74,7 +70,7 @@ The concept of tariff pass-through refers to the extent to which the cost of tar
 
 ### Sector-Specific Impacts on Consumer Prices
 
->  ...tariffs on washing machines imposed in 2018 led to a 12% increase in
+> ...tariffs on washing machines imposed in 2018 led to a 12% increase in
 > their prices, equivalent to an $86 increase per unit, as reported by
 > the [British Broadcasting Corporation
 > (BBC)](https://www.bbc.com/news/articles/c20myx1erl6o).
@@ -113,7 +109,6 @@ As tariffs increase the cost of goods, consumers may alter their purchasing beha
 
 While tariffs are intended to protect domestic industries, their impact on consumer prices and the broader economy can be significant. The near-complete pass-through of tariffs to consumer prices, sector-specific price increases, inflationary effects, and regressive nature of tariffs all contribute to the economic burden on consumers. Businesses may adopt various strategies to mitigate these impacts, but the long-term economic implications, including reduced growth and job losses, underscore the complex trade-offs involved in tariff policy. As consumers adjust their behavior in response to higher prices, the overall economic landscape may shift, highlighting the need for careful consideration of tariff policies and their broader economic effects.
 
-
 ## Economic Consequences of Tariffs on Consumer Goods
 
 ### Tariff-Induced Supply Chain Disruptions
@@ -145,7 +140,6 @@ This section expands on the concept of retaliatory tariffs, which was not covere
 Tariff policies can have significant macroeconomic effects, influencing key indicators such as GDP, inflation, and trade balances. The imposition of tariffs can lead to increased inflationary pressures as the cost of imported goods rises, contributing to higher overall price levels in the economy. Additionally, tariffs can negatively impact GDP by reducing trade volumes and increasing production costs for businesses ([IMF Working Papers](https://econpapers.repec.org/RePEc:imf:imfwpa:2024/013)).
 
 This section provides a comprehensive analysis of the macroeconomic effects of tariffs, complementing the existing content on inflationary effects by exploring additional dimensions such as GDP and trade balances. It offers a broader perspective on how tariff policies can influence the overall economic environment, beyond their immediate impact on consumer prices.
-
 
 ## Pass-Through Effects of Tariffs to Consumers
 
@@ -207,7 +201,6 @@ Policymakers should also consider complementary measures, such as targeted tax r
 
 In conclusion, while tariffs are often implemented to protect domestic industries, their pass-through effects on consumer prices and the broader economy can be significant. Understanding the mechanisms and factors influencing tariff pass-through is essential for designing effective trade policies that balance the interests of consumers, producers, and the overall economy.
 
-
 ## Inflationary Effects of Tariffs on Consumer Goods
 
 ### Inflationary Dynamics Triggered by Tariffs
@@ -256,7 +249,6 @@ Additionally, the inflationary effects of tariffs can impact fiscal policy, as g
 
 Overall, the inflationary effects of tariffs on consumer goods are complex and multifaceted, involving direct price increases, supply chain disruptions, profit-led inflation, wage-price spirals, and policy responses. Understanding these dynamics is crucial for policymakers and businesses to navigate the challenges posed by tariffs and their impact on the economy.
 
-
 ## Tariffs and Domestic Production
 
 ### Tariff Impact on Domestic Supply Chains
@@ -300,7 +292,6 @@ This section explores the potential for tariffs to act as a catalyst for innovat
 The research report comprehensively examines the effects of tariffs on consumer goods, highlighting that tariffs generally lead to higher consumer prices due to a near-complete pass-through of costs from importers to consumers. This phenomenon is evident across various sectors, with notable examples such as the 12% price increase in washing machines following the 2018 tariffs. The inflationary pressures induced by tariffs are significant, contributing to an increase in the overall price level and potentially leading to a surge in the Personal Consumption Expenditure Price Index, as projected by [Bloomberg Economics](https://www.snopes.com/news/2024/09/19/trump-tariffs-explainer/). Additionally, tariffs are identified as a regressive tax, disproportionately affecting lower-income households, which exacerbates income inequality.
 
 The implications of these findings are multifaceted. While tariffs aim to protect domestic industries, they often result in increased costs for consumers and can lead to broader economic consequences such as reduced GDP growth and job losses, as estimated by the [Tax Foundation](https://taxfoundation.org/research/all/federal/trump-tariffs-biden-tariffs/). The report suggests that policymakers should carefully consider the design and implementation of tariff policies, taking into account their inflationary effects and the potential for retaliatory measures that could escalate trade tensions. Strategic responses by businesses, such as relocating supply chains or absorbing costs, highlight the need for adaptive strategies to mitigate tariff impacts. Future policy considerations might include targeted tax relief or subsidies to alleviate the burden on lower-income households and ensure equitable distribution of the economic benefits of tariffs.
-
 
 ## References
 

@@ -32,6 +32,7 @@ export default defineConfig({
         name: "post",
         label: "Posts",
         path: "src/content/posts",
+        format: "md",
         fields: [
           {
             type: "string",
@@ -56,6 +57,22 @@ export default defineConfig({
             label: 'Featured Image',
             name: 'featuredImage',
             required: true,
+          },
+          {
+            label: 'Categories',
+            name: 'categories',
+            type: 'string',
+            list: true,
+            options: [
+              {
+                value: 'Technology',
+                label: 'Technology',
+              },
+              {
+                value: 'Art',
+                label: 'Art',
+              },
+            ],
           },
           {
             type: "rich-text",

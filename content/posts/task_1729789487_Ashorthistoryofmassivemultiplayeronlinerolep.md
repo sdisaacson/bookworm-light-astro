@@ -9,6 +9,7 @@ author:
 ogImage:
   url: "/assets/blog/mmorpg.jpg"
 ---
+
 # A Short History of Massive Multiplayer Online Role-Playing Games (MMORPGs)
 
 ## Introduction
