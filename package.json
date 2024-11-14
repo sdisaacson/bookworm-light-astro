@@ -4,6 +4,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
+    "prebuild": "node scripts/replaceAssetPaths.js",
     "build": "tinacms build && astro build",
     "format": "prettier -w ."
   },
