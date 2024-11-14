@@ -1,3 +1,4 @@
+
 # The Economic Impact of Donald Trump and Peter Thiel: An Analysis
 
 ## Introduction
