@@ -1,4 +1,4 @@
-/ /scripts/replaceAssetPaths.js
+// /scripts/replaceAssetPaths.js
 
 // all .md files in this directory and subdirectories will be processed
 const postsDirectory = "/src/content/posts/";
