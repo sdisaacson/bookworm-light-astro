@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "The AI Papers",
+    "base_url": "https://theaipapers.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "logo": "/images/cover.jpg",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": ""
   },
 
   "settings": {
@@ -17,14 +17,14 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_author": "Scott Isaacson",
+    "meta_image": "/images/cover.jpg",
+    "meta_description": "I'm here to make myself proud and everyone else a little uncomfortable."
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2024 a website by [Scott Isaacson](https://sisaacson.io)"
   },
 
   "contactinfo": {
