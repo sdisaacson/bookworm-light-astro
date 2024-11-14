@@ -33,6 +33,13 @@ export default defineConfig({
         label: "Posts",
         path: "src/content/posts",
         format: "md",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+          router: () => '/',
+        },
         fields: [
           {
             type: "string",
@@ -72,6 +79,26 @@ export default defineConfig({
                 value: 'Art',
                 label: 'Art',
               },
+              {
+                value: 'Development',
+                label: 'Development',
+              },
+              {
+                value: 'Accessories',
+                label: 'Accessories',
+              },
+              {
+                value: 'Food',
+                label: 'Food',
+              },
+              {
+                value: 'Lifestyle',
+                label: 'Lifestyle',
+              },
+              {
+                value: 'Politics',
+                label: 'Politics',
+              }
             ],
           },
           {

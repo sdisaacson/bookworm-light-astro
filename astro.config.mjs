@@ -7,6 +7,12 @@ import { defineConfig } from "astro/config";
 import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
+import { defineConfig } from 'astro/config'
+import react from '@astrojs/react'
+import tina from 'astro-tina'
+import { defineConfig } from 'astro/config'
+import react from '@astrojs/react'
+import tina from 'astro-tina'
 
 // https://astro.build/config
 export default defineConfig({
@@ -16,6 +22,7 @@ export default defineConfig({
   image: {},
   integrations: [
     react(),
+    tina(),
     sitemap(),
     tailwind({
       config: {
@@ -35,6 +42,9 @@ export default defineConfig({
     }),
     mdx(),
   ],
+  redirects: {
+    "/tag/[tag]": "/tag/[tag]/1",
+  },
   markdown: {
     remarkPlugins: [
       remarkToc,
