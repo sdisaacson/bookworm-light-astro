@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
-    "build": "astro build",
+    "build": "tinacms build && astro build",
     "format": "prettier -w ."
   },
   "dependencies": {
