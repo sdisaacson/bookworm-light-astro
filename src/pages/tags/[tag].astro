@@ -16,7 +16,6 @@ export async function getStaticPaths() {
     };
   });
 }
-
 const { tag } = Astro.params;
 
 const posts = await getSinglePage("posts");

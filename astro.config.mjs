@@ -13,10 +13,13 @@ import tina from 'astro-tina';
 import { defineConfig } from 'astro/config'
 import react from '@astrojs/react';
 import tina from 'astro-tina'
+import vercelServerless from '@astrojs/vercel/serverless';
 
 // https://astro.build/config
 export default defineConfig({
-  site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
+  output: 'hybrid',
+  adapter: vercelServerless(),
+  site: config.site.base_url ? config.site.base_url : "https://bookworm-light-astro-rouge.vercel.app",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   image: {},
