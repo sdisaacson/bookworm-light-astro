@@ -17,6 +17,9 @@ import vercel from '@astrojs/vercel/serverless';
 
 // https://astro.build/config
 export default defineConfig({
+  devToolbar: {
+    enabled: true
+  },
   output: 'hybrid',
   adapter: vercel({
     webAnalytics: {

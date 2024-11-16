@@ -21,7 +21,7 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "/src/assets",
+      mediaRoot: "",
       publicFolder: "public",
     },
   },
@@ -35,10 +35,9 @@ export default defineConfig({
         format: "md",
         ui: {
           allowedActions: {
-            create: false,
-            delete: false,
+            create: true,
+            delete: true,
           },
-          router: () => '/',
         },
         fields: [
           {
@@ -51,55 +50,20 @@ export default defineConfig({
           {
             type: "string",
             name: "description",
-            label: "description",
+            label: "Description",
             required: true,
           },
           {
             type: 'datetime',
             label: 'Publish Date',
-            name: 'publishDate',
-            required: true,
-          }, {
-            type: 'image',
-            label: 'Featured Image',
-            name: 'featuredImage',
+            name: 'Date',
             required: true,
           },
           {
-            label: 'Categories',
-            name: 'categories',
-            type: 'string',
-            list: true,
-            options: [
-              {
-                value: 'Technology',
-                label: 'Technology',
-              },
-              {
-                value: 'Art',
-                label: 'Art',
-              },
-              {
-                value: 'Development',
-                label: 'Development',
-              },
-              {
-                value: 'Accessories',
-                label: 'Accessories',
-              },
-              {
-                value: 'Food',
-                label: 'Food',
-              },
-              {
-                value: 'Lifestyle',
-                label: 'Lifestyle',
-              },
-              {
-                value: 'Politics',
-                label: 'Politics',
-              }
-            ],
+            type: 'image',
+            label: 'Image',
+            name: 'image',
+            required: true,
           },
           {
             type: "rich-text",
