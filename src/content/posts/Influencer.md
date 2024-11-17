@@ -1,13 +1,25 @@
 ---
-title: "The Evolution of Influencer Marketing"
-description: "Influencer marketing traces its roots back to the early days of social media, where individuals with substantial followings began to leverage their platforms for brand promotion. Over the years, this practice has evolved significantly, becoming a $30 billion industry by 2024 ([33rd Square](https://www.33rdsquare.com/influencer-marketing-statistics/)). The rapid growth can be attributed to the increasing trust consumers place in influencers, who are perceived as authentic and relatable compared to traditional advertising channels."
-date: 2024-10-02
-image: "/images/influencer.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: The Evolution of Influencer Marketing
+description: >-
+  Influencer marketing traces its roots back to the early days of social media,
+  where individuals with substantial followings began to leverage their
+  platforms for brand promotion. Over the years, this practice has evolved
+  significantly, becoming a $30 billion industry by 2024 ([33rd
+  Square](https://www.33rdsquare.com/influencer-marketing-statistics/)). The
+  rapid growth can be attributed to the increasing trust consumers place in
+  influencers, who are perceived as authentic and relatable compared to
+  traditional advertising channels.
+date: '2024-10-02T00:00:00.000Z'
+image: /images/influencer.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 ## The Evolution of Influencer Marketing
 
