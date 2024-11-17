@@ -1,13 +1,21 @@
 ---
-title: "Is AI in a Hype Cycle?"
-description: "Artificial Intelligence (AI) agents are revolutionizing multiple industries by automating tasks, enhancing decision-making processes, and improving operational efficiency. These agents, powered by advanced algorithms and machine learning, are designed to ..."
-date: 2024-08-19T05:35:07.322Z
-image: "/images/aihypecycle.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: Is AI in a Hype Cycle?
+description: >-
+  Artificial Intelligence (AI) agents are revolutionizing multiple industries by
+  automating tasks, enhancing decision-making processes, and improving
+  operational efficiency. These agents, powered by advanced algorithms and
+  machine learning, are designed to ...
+date: '2024-08-19T05:35:07.322Z'
+image: /images/aihypecycle.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The State of AI in 2023: Navigating the Hype Cycle
 
