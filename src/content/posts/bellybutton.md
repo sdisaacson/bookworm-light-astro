@@ -1,13 +1,24 @@
 ---
-title: "Exploring the Mysteries of Belly Buttons and Belly Button Lint"
-description: "Belly buttons, or navels, are a fascinating aspect of human anatomy that often go unnoticed in daily life. Despite their seemingly mundane nature, they hold a wealth of intriguing and sometimes bizarre facts that capture the curiosity of both scientists and the general public. This report delves into the peculiarities surrounding belly buttons and the lint that often accumulates within them, offering insights into their biological, cultural, and scientific significance."
-date: 2024-10-14
-image: "/images/bellybutton.jpg"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: Exploring the Mysteries of Belly Buttons and Belly Button Lint
+description: >-
+  Belly buttons, or navels, are a fascinating aspect of human anatomy that often
+  go unnoticed in daily life. Despite their seemingly mundane nature, they hold
+  a wealth of intriguing and sometimes bizarre facts that capture the curiosity
+  of both scientists and the general public. This report delves into the
+  peculiarities surrounding belly buttons and the lint that often accumulates
+  within them, offering insights into their biological, cultural, and scientific
+  significance.
+date: '2024-10-14T00:00:00.000Z'
+image: /images/bellybutton.jpg
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # Exploring the Mysteries of Belly Buttons and Belly Button Lint
 
