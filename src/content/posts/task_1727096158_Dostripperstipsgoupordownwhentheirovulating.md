@@ -1,13 +1,23 @@
 ---
-title: "The Influence of Ovulation on Strippers' Earnings: An Economic Perspective"
-description: "The relationship between human fertility cycles and economic behavior has long intrigued researchers, leading to a fascinating intersection of evolutionary psychology and economics. A notable study conducted by Geoffrey Miller and his colleagues at the University of New Mexico has explored this intersection by examining the earnings of exotic dancers in relation to their menstrual cycles."
-date: 2024-10-02
-image: "/images/exoticdancer.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: 'The Influence of Ovulation on Strippers'' Earnings: An Economic Perspective'
+description: >-
+  The relationship between human fertility cycles and economic behavior has long
+  intrigued researchers, leading to a fascinating intersection of evolutionary
+  psychology and economics. A notable study conducted by Geoffrey Miller and his
+  colleagues at the University of New Mexico has explored this intersection by
+  examining the earnings of exotic dancers in relation to their menstrual
+  cycles.
+date: '2024-10-02T00:00:00.000Z'
+image: /images/exoticdancer.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Influence of Ovulation on Strippers' Earnings: An Economic Perspective
 
