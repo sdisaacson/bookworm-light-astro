@@ -1,13 +1,21 @@
 ---
-title: "How American Tastes in Candy Grew Up"
-description: "From the artisanal beginnings of the 19th century, when candy production was transformed by the, to the mass production techniques of the early 20th century that introduced iconic brands like Hershey's and Tootsie Roll, the candy industry has continually adapted to meet changing consumer demands."
-date: 2024-08-21
-image: "/images/tastesincandy/tastesincandy.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: How American Tastes in Candy Grew Up
+description: >-
+  From the artisanal beginnings of the 19th century, when candy production was
+  transformed by the, to the mass production techniques of the early 20th
+  century that introduced iconic brands like Hershey's and Tootsie Roll, the
+  candy industry has continually adapted to meet changing consumer demands.
+date: '2024-08-21T00:00:00.000Z'
+image: /images/tastesincandy/tastesincandy.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Evolution of American Candy Preferences: From the 1800s to the Present
 
