@@ -1,13 +1,24 @@
 ---
-title: "Innovative Approaches to Hiccup Management: The Rectal Route"
-description: "Hiccups, medically known as singultus, are involuntary contractions of the diaphragm followed by a rapid closure of the vocal cords, producing the characteristic 'hic' sound. While often a benign and transient condition, hiccups can become persistent or intractable, significantly impacting quality of life. Traditional remedies and pharmacological treatments have been explored extensively, yet some cases remain resistant to conventional approaches."
-date: 2024-09-30
-image: "/images/rectal_route_curing_hiccups_poster_second.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: 'Innovative Approaches to Hiccup Management: The Rectal Route'
+description: >-
+  Hiccups, medically known as singultus, are involuntary contractions of the
+  diaphragm followed by a rapid closure of the vocal cords, producing the
+  characteristic 'hic' sound. While often a benign and transient condition,
+  hiccups can become persistent or intractable, significantly impacting quality
+  of life. Traditional remedies and pharmacological treatments have been
+  explored extensively, yet some cases remain resistant to conventional
+  approaches.
+date: '2024-09-30T00:00:00.000Z'
+image: /images/rectal_route_curing_hiccups_poster_second.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # Innovative Approaches to Hiccup Management: The Rectal Route
 
