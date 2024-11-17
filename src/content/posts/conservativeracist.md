@@ -1,13 +1,27 @@
 ---
-title: "American Conservatism and Its Racist History with African Americans"
-description: "The relationship between American conservatism and African Americans is a complex and multifaceted one, deeply rooted in the nation's history and evolving political landscape. Following the American Civil War, African Americans initially aligned with the Republican Party, which was founded as an anti-slavery party. This allegiance was solidified by President Abraham Lincoln's leadership and the abolition of slavery with the Thirteenth Amendment in 1865. However, the political landscape began to shift in the 1930s with Franklin D. Roosevelt's New Deal, which provided socio-economic relief during the Great Depression, and further solidified in the 1960s with the Democratic Party's support for civil rights legislation."
-date: 2024-09-02
-image: "/images/Conservativeracist.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: American Conservatism and Its Racist History with African Americans
+description: >-
+  The relationship between American conservatism and African Americans is a
+  complex and multifaceted one, deeply rooted in the nation's history and
+  evolving political landscape. Following the American Civil War, African
+  Americans initially aligned with the Republican Party, which was founded as an
+  anti-slavery party. This allegiance was solidified by President Abraham
+  Lincoln's leadership and the abolition of slavery with the Thirteenth
+  Amendment in 1865. However, the political landscape began to shift in the
+  1930s with Franklin D. Roosevelt's New Deal, which provided socio-economic
+  relief during the Great Depression, and further solidified in the 1960s with
+  the Democratic Party's support for civil rights legislation.
+date: '2024-09-02T00:00:00.000Z'
+image: /images/Conservativeracist.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # American Conservatism and Its Racist History with African Americans
 
