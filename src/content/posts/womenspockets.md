@@ -1,13 +1,24 @@
 ---
-title: "The Evolution and Politics of Pockets in Women's Fashion"
-description: "The absence of functional pockets in women's clothing is a longstanding issue that intertwines fashion, gender politics, and societal norms. Historically, pockets have been more than just a practical feature; they have symbolized autonomy and privacy. The disparity in pocket design between men's and women's clothing can be traced back to the late 17th century when pockets were first sewn into men's garments, while women continued using external pouches tied around their waists."
-date: 2024-09-10
-image: "/images/pocketlesswomen.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: The Evolution and Politics of Pockets in Women's Fashion
+description: >-
+  The absence of functional pockets in women's clothing is a longstanding issue
+  that intertwines fashion, gender politics, and societal norms. Historically,
+  pockets have been more than just a practical feature; they have symbolized
+  autonomy and privacy. The disparity in pocket design between men's and women's
+  clothing can be traced back to the late 17th century when pockets were first
+  sewn into men's garments, while women continued using external pouches tied
+  around their waists.
+date: '2024-09-10T00:00:00.000Z'
+image: /images/pocketlesswomen.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Evolution and Politics of Pockets in Women's Fashion
 
