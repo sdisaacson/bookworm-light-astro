@@ -1,13 +1,23 @@
 ---
-title: "Anatomy and Physiology of Sword Swallowing"
-description: "The primary risk in sword swallowing is the potential for perforation of the esophagus or pharynx, with life-threatening complications just a slip away. Even seasoned performers are vulnerable—distractions, fatigue, or unusual swords can turn an artful display into a medical emergency. Mastery takes years of dedicated practice, yet even experts are just one misstep from catastrophic injury."
-date: 2024-10-10
-image: "/images/swordswallower.jpg"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: Anatomy and Physiology of Sword Swallowing
+description: >-
+  The primary risk in sword swallowing is the potential for perforation of the
+  esophagus or pharynx, with life-threatening complications just a slip away.
+  Even seasoned performers are vulnerable—distractions, fatigue, or unusual
+  swords can turn an artful display into a medical emergency. Mastery takes
+  years of dedicated practice, yet even experts are just one misstep from
+  catastrophic injury.
+date: '2024-10-10T00:00:00.000Z'
+image: /images/swordswallower.jpg
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 ## Anatomy and Physiology of Sword Swallowing
 
