@@ -1,13 +1,21 @@
 ---
-title: "Interior Design Trends for 2024: A Comprehensive Overview"
-description: "The interior design landscape in 2024 is marked by a dynamic blend of nostalgia, sustainability, and technological innovation. This year, homeowners and designers are embracing trends that celebrate past aesthetics while integrating modern sensibilities."
-date: 2024-08-22
-image: "/images/interior.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: 'Interior Design Trends for 2024: A Comprehensive Overview'
+description: >-
+  The interior design landscape in 2024 is marked by a dynamic blend of
+  nostalgia, sustainability, and technological innovation. This year, homeowners
+  and designers are embracing trends that celebrate past aesthetics while
+  integrating modern sensibilities.
+date: '2024-08-22T00:00:00.000Z'
+image: /images/interior.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # Interior Design Trends for 2024: A Comprehensive Overview
 
