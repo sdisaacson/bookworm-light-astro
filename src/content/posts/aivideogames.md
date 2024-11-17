@@ -1,13 +1,21 @@
 ---
-title: "The Transformative Impact of AI on the Video Game Industry"
-description: "Artificial Intelligence (AI) has emerged as a transformative force across numerous industries, and the video game sector is no exception. From enhancing game development processes to revolutionizing player experiences, AI is poised to redefine the landscape of gaming."
-date: 2024-08-18
-image: "/images/cover.jpg"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: The Transformative Impact of AI on the Video Game Industry
+description: >-
+  Artificial Intelligence (AI) has emerged as a transformative force across
+  numerous industries, and the video game sector is no exception. From enhancing
+  game development processes to revolutionizing player experiences, AI is poised
+  to redefine the landscape of gaming.
+date: '2024-08-18T00:00:00.000Z'
+image: /images/cover.jpg
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Transformative Impact of AI on the Video Game Industry
 
