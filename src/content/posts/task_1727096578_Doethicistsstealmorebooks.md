@@ -1,13 +1,25 @@
 ---
-title: "The Ethical Paradox: Analyzing the Behavior of Ethicists in Academic Settings"
-description: "The question of whether ethicists, who are expected to be paragons of moral behavior, actually adhere to the ethical standards they study, has intrigued scholars and laypeople alike. This curiosity is particularly piqued by the provocative question: Do ethicists steal more books? This inquiry was notably explored by Eric Schwitzgebel, a philosopher at the University of California, Riverside, who conducted empirical research to examine the rates at which ethics books go missing from academic libraries compared to other philosophy books."
-date: 2024-10-01
-image: "/images/ethics_prof.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: 'The Ethical Paradox: Analyzing the Behavior of Ethicists in Academic Settings'
+description: >-
+  The question of whether ethicists, who are expected to be paragons of moral
+  behavior, actually adhere to the ethical standards they study, has intrigued
+  scholars and laypeople alike. This curiosity is particularly piqued by the
+  provocative question: Do ethicists steal more books? This inquiry was notably
+  explored by Eric Schwitzgebel, a philosopher at the University of California,
+  Riverside, who conducted empirical research to examine the rates at which
+  ethics books go missing from academic libraries compared to other philosophy
+  books.
+date: '2024-10-01T00:00:00.000Z'
+image: /images/ethics_prof.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Ethical Paradox: Analyzing the Behavior of Ethicists in Academic Settings
 
