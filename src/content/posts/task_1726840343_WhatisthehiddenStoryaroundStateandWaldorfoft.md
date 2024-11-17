@@ -1,13 +1,25 @@
 ---
-title: "The Hidden Story of Statler and Waldorf: The Muppets' Iconic Hecklers"
-description: "Statler and Waldorf, the beloved Muppet characters, have become synonymous with witty banter and sharp critiques from their iconic balcony seats in *The Muppet Show*. Created by the legendary puppeteer and designed by Bonnie Erickson, these two elderly hecklers first appeared in 1975 and quickly became fan favorites for their humorous and often biting commentary. Named after two iconic New York City hotels, the and the, Statler and Waldorf have been a staple of Muppet productions, appearing in numerous films and television shows."
-date: 2024-09-20
-image: "/images/Muppets.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: 'The Hidden Story of Statler and Waldorf: The Muppets'' Iconic Hecklers'
+description: >-
+  Statler and Waldorf, the beloved Muppet characters, have become synonymous
+  with witty banter and sharp critiques from their iconic balcony seats in *The
+  Muppet Show*. Created by the legendary puppeteer and designed by Bonnie
+  Erickson, these two elderly hecklers first appeared in 1975 and quickly became
+  fan favorites for their humorous and often biting commentary. Named after two
+  iconic New York City hotels, the and the, Statler and Waldorf have been a
+  staple of Muppet productions, appearing in numerous films and television
+  shows.
+date: '2024-09-20T00:00:00.000Z'
+image: /images/Muppets.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Hidden Story of Statler and Waldorf: The Muppets' Iconic Hecklers
 
