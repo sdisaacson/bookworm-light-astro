@@ -1,13 +1,24 @@
 ---
-title: "The Role of Fear in American Conservatism: An In-Depth Analysis"
-description: "The role of fear in shaping political ideologies, particularly American conservatism, has been a subject of extensive research and debate. Fear, as a potent psychological motivator, influences not only individual cognition and behavior but also broader social and political dynamics. This research report delves into the multifaceted relationship between fear and American conservatism, drawing on a range of psychological theories, neuropsychological perspectives, and cultural contexts."
-date: 2024-08-30
-image: "/images/conservativefear.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: 'The Role of Fear in American Conservatism: An In-Depth Analysis'
+description: >-
+  The role of fear in shaping political ideologies, particularly American
+  conservatism, has been a subject of extensive research and debate. Fear, as a
+  potent psychological motivator, influences not only individual cognition and
+  behavior but also broader social and political dynamics. This research report
+  delves into the multifaceted relationship between fear and American
+  conservatism, drawing on a range of psychological theories, neuropsychological
+  perspectives, and cultural contexts.
+date: '2024-08-30T00:00:00.000Z'
+image: /images/conservativefear.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Role of Fear in American Conservatism: An In-Depth Analysis
 
