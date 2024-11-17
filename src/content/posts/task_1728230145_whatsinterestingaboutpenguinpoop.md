@@ -1,13 +1,25 @@
 ---
-title: "The Fascinating World of Penguin Poop: Ecological and Scientific Insights"
-description: "Penguin poop, often referred to as guano, is more than just a byproduct of these charming birds. It plays a crucial role in both ecological and scientific contexts, offering insights into the health of ecosystems and the impacts of climate change. Historically, penguin guano was harvested for its high nitrogen content, making it a valuable fertilizer and a component in gunpowder production. However, the ecological importance of guano has led to a decline in its commercial exploitation, as efforts to protect penguin habitats have increased."
-date: 2024-10-06
-image: "/images/penguin.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: 'The Fascinating World of Penguin Poop: Ecological and Scientific Insights'
+description: >-
+  Penguin poop, often referred to as guano, is more than just a byproduct of
+  these charming birds. It plays a crucial role in both ecological and
+  scientific contexts, offering insights into the health of ecosystems and the
+  impacts of climate change. Historically, penguin guano was harvested for its
+  high nitrogen content, making it a valuable fertilizer and a component in
+  gunpowder production. However, the ecological importance of guano has led to a
+  decline in its commercial exploitation, as efforts to protect penguin habitats
+  have increased.
+date: '2024-10-06T00:00:00.000Z'
+image: /images/penguin.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Fascinating World of Penguin Poop: Ecological and Scientific Insights
 
