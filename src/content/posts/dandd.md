@@ -1,13 +1,23 @@
 ---
-title: "Exploring the Intersection of Dungeons & Dragons and Machine Learning"
-description: "The integration of machine learning into Dungeons & Dragons is reshaping the landscape of tabletop role-playing games. By enhancing storytelling, procedural generation, and accessibility, AI is not only a tool for innovation but also a bridge connecting traditional gaming with the digital future. As AI continues to evolve, its role in D&D will likely expand, offering new opportunities for creativity and collaboration in this beloved game."
-date: 2024-08-25T05:35:07.322Z
-image: "/images/dandd.jpeg"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: Exploring the Intersection of Dungeons & Dragons and Machine Learning
+description: >-
+  The integration of machine learning into Dungeons & Dragons is reshaping the
+  landscape of tabletop role-playing games. By enhancing storytelling,
+  procedural generation, and accessibility, AI is not only a tool for innovation
+  but also a bridge connecting traditional gaming with the digital future. As AI
+  continues to evolve, its role in D&D will likely expand, offering new
+  opportunities for creativity and collaboration in this beloved game.
+date: '2024-08-25T05:35:07.322Z'
+image: /images/dandd.jpeg
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # Exploring the Intersection of Dungeons & Dragons and Machine Learning
 
