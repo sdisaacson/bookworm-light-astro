@@ -1,13 +1,23 @@
 ---
-title: "The Evolution of the American Police Force"
-description: "As urban centers in the United States expanded in the 18th and 19th centuries, the need for a more organized and professional police force became apparent. This necessity was driven by the challenges posed by rapid urbanization, immigration, and the rise of organized labor. The first formal police force, as we recognize it today, was established in Boston in 1838, marking a significant shift towards a centralized and bureaucratic model of policing "
-date: 2024-09-15
-image: "/images/americanpolice.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: The Evolution of the American Police Force
+description: >-
+  As urban centers in the United States expanded in the 18th and 19th centuries,
+  the need for a more organized and professional police force became apparent.
+  This necessity was driven by the challenges posed by rapid urbanization,
+  immigration, and the rise of organized labor. The first formal police force,
+  as we recognize it today, was established in Boston in 1838, marking a
+  significant shift towards a centralized and bureaucratic model of policing 
+date: '2024-09-15T00:00:00.000Z'
+image: /images/americanpolice.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Evolution of the American Police Force
 
