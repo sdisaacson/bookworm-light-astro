@@ -1,13 +1,19 @@
 ---
-title: "Ensuring Ethical and Unbiased AI: Crafting Effective Prompts for Copilot"
-description: "In the rapidly evolving landscape of artificial intelligence (AI), ensuring ethical and unbiased operations is paramount."
-date: 2024-08-18T05:35:07.322Z
-image: "/images/stairs.jpg"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: 'Ensuring Ethical and Unbiased AI: Crafting Effective Prompts for Copilot'
+description: >-
+  In the rapidly evolving landscape of artificial intelligence (AI), ensuring
+  ethical and unbiased operations is paramount.
+date: '2024-08-18T05:35:07.322Z'
+image: /images/stairs.jpg
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # Ensuring Ethical and Unbiased AI: Crafting Effective Prompts for Copilot
 
