@@ -36,9 +36,7 @@ export default defineConfig({
         ui: {
           allowedActions: {
             create: true,
-            delete: true,
-            createNestedFolder: true,
-
+            delete: true, // Ensure this is set to true
           },
         },
         fields: [
