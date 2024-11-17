@@ -1,13 +1,22 @@
 ---
-title: "The Psychological Benefits of Popping Bubble Wrap"
-description: "The act of popping bubble wrap is a seemingly simple and universally enjoyed activity that has garnered significant attention for its psychological benefits. This research report delves into the multifaceted nature of bubble wrap popping, exploring its addictive qualities, sensory stimulation, evolutionary roots, and psychological coping mechanisms."
-date: 2024-08-26
-image: "/images/bubblewrap.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: The Psychological Benefits of Popping Bubble Wrap
+description: >-
+  The act of popping bubble wrap is a seemingly simple and universally enjoyed
+  activity that has garnered significant attention for its psychological
+  benefits. This research report delves into the multifaceted nature of bubble
+  wrap popping, exploring its addictive qualities, sensory stimulation,
+  evolutionary roots, and psychological coping mechanisms.
+date: '2024-08-26T00:00:00.000Z'
+image: /images/bubblewrap.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Psychological Benefits of Popping Bubble Wrap
 
