@@ -1,13 +1,24 @@
 ---
-title: "The Evolution of Masculinity: The Influence of Feminism on Men's Perspectives"
-description: "The interplay between feminism and masculinity has been a focal point of sociological discourse, particularly in the context of evolving gender roles and identities. Over the past few decades, feminist movements have profoundly influenced men's perceptions of masculinity, challenging traditional norms and encouraging introspection and change. This report delves into how feminist ideologies have reshaped men's understanding of masculinity, highlighting both the theoretical and practical implications of this transformation."
-date: 2024-09-14
-image: "/images/evolutionmasculinity.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: 'The Evolution of Masculinity: The Influence of Feminism on Men''s Perspectives'
+description: >-
+  The interplay between feminism and masculinity has been a focal point of
+  sociological discourse, particularly in the context of evolving gender roles
+  and identities. Over the past few decades, feminist movements have profoundly
+  influenced men's perceptions of masculinity, challenging traditional norms and
+  encouraging introspection and change. This report delves into how feminist
+  ideologies have reshaped men's understanding of masculinity, highlighting both
+  the theoretical and practical implications of this transformation.
+date: '2024-09-14T00:00:00.000Z'
+image: /images/evolutionmasculinity.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Evolution of Masculinity: The Influence of Feminism on Men's Perspectives
 
