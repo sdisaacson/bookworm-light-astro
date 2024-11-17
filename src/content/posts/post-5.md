@@ -1,13 +1,18 @@
 ---
-title: "Banana is the best meal packages in the UK spark outrage online"
-description: "meta description"
-date: 2022-04-05T16:56:47+06:00
-image: "/images/posts/05.jpg"
+title: Banana is the best meal packages in the UK spark outrage online
+description: meta description
+date: '2022-04-05T10:56:47.000Z'
+image: /images/posts/05.jpg
 draft: false
-authors: ["John Doe"]
-tags: ["Food", "Gold"]
-categories: ["Food"]
+authors:
+  - John Doe
+tags:
+  - Food
+  - Gold
+categories:
+  - Food
 ---
+
 
 A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called "plantains", distinguishing them from dessert bananas.
 
