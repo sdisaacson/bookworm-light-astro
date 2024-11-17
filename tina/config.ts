@@ -56,7 +56,7 @@ export default defineConfig({
           {
             type: 'datetime',
             label: 'Publish Date',
-            name: 'Date',
+            name: 'date',
             required: true,
           },
           {
@@ -64,6 +64,16 @@ export default defineConfig({
             label: 'Image',
             name: 'image',
             required: true,
+          },
+          {
+            type: "string",
+            name: "categories",
+            list: true,
+          },
+          {
+            type: "string",
+            name: "tags",
+            list: true,
           },
           {
             type: "rich-text",
