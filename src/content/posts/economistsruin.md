@@ -1,13 +1,20 @@
 ---
-title: "Did Economists Ruin Society?"
-description: "This report delves into the complex relationship between economic theories and societal outcomes, exploring how economists have contributed to both the advancement and the challenges of modern civilization."
-date: 2024-08-21
-image: "/images/economists.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: Did Economists Ruin Society?
+description: >-
+  This report delves into the complex relationship between economic theories and
+  societal outcomes, exploring how economists have contributed to both the
+  advancement and the challenges of modern civilization.
+date: '2024-08-21T00:00:00.000Z'
+image: /images/economists.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Role of Economists in Shaping Modern Society: A Critical Examination
 
