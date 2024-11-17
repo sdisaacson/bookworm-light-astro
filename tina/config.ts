@@ -30,13 +30,15 @@ export default defineConfig({
     collections: [
       {
         name: "post",
-        label: "Posts",
+        label: "New Post",
         path: "src/content/posts",
         format: "md",
         ui: {
           allowedActions: {
             create: true,
             delete: true,
+            createNestedFolder: true,
+
           },
         },
         fields: [
@@ -74,6 +76,11 @@ export default defineConfig({
             type: "string",
             name: "tags",
             list: true,
+          },
+          {
+            type: 'boolean',
+            name: 'draft',
+            label: 'Keep as Draft?'
           },
           {
             type: "rich-text",
