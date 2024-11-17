@@ -1,13 +1,24 @@
 ---
-title: "The Historical Roots of Dysfunction in Russia: An In-Depth Analysis"
-description: "Russia’s history is marked by a series of complex socio-political and economic challenges that have contributed to its current state of dysfunction. This report aims to explore the historical roots of these issues, tracing them back to the medieval period and examining their evolution through the centuries. By understanding the historical context, we can gain insights into why Russia has struggled to establish a stable and prosperous democratic state in the modern era."
-date: 2024-09-04
-image: "/images/poorrussian.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: 'The Historical Roots of Dysfunction in Russia: An In-Depth Analysis'
+description: >-
+  Russia’s history is marked by a series of complex socio-political and economic
+  challenges that have contributed to its current state of dysfunction. This
+  report aims to explore the historical roots of these issues, tracing them back
+  to the medieval period and examining their evolution through the centuries. By
+  understanding the historical context, we can gain insights into why Russia has
+  struggled to establish a stable and prosperous democratic state in the modern
+  era.
+date: '2024-09-04T00:00:00.000Z'
+image: /images/poorrussian.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Historical Roots of Dysfunction in Russia: An In-Depth Analysis
 
