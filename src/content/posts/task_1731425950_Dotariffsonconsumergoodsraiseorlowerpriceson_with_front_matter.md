@@ -1,13 +1,22 @@
 ---
-title: "The Economic Impact of Tariffs on Consumer Goods Prices"
-description: "Tariffs, often described as a form of specialized sales tax, have been a focal point of economic policy debates, particularly in the context of their impact on consumer goods prices. The imposition of tariffs can lead to a direct increase in the cost of imported goods, which often translates into higher prices for consumers."
-date: 2024-11-13
-image: "/images/tariffdisappointment.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: The Economic Impact of Tariffs on Consumer Goods Prices
+description: >-
+  Tariffs, often described as a form of specialized sales tax, have been a focal
+  point of economic policy debates, particularly in the context of their impact
+  on consumer goods prices. The imposition of tariffs can lead to a direct
+  increase in the cost of imported goods, which often translates into higher
+  prices for consumers.
+date: '2024-11-13T00:00:00.000Z'
+image: /images/tariffdisappointment.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Economic Impact of Tariffs on Consumer Goods Prices
 
