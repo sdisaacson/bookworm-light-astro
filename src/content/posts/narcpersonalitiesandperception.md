@@ -1,13 +1,24 @@
 ---
-title: "Narcissists' Perceptions of Their Personalities and Reputation"
-description: "Narcissistic Personality Disorder (NPD) is a complex psychological condition characterized by an inflated sense of self-worth, a constant need for admiration, and a lack of empathy for others. Individuals with NPD often exhibit grandiose self-perceptions, believing themselves to be superior, unique, and deserving of special treatment. These self-perceptions are not merely heightened self-esteem but are deeply ingrained beliefs that significantly impact their behavior and interpersonal relationships"
-date: 2024-09-18
-image: "/images/narc.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: Narcissists' Perceptions of Their Personalities and Reputation
+description: >-
+  Narcissistic Personality Disorder (NPD) is a complex psychological condition
+  characterized by an inflated sense of self-worth, a constant need for
+  admiration, and a lack of empathy for others. Individuals with NPD often
+  exhibit grandiose self-perceptions, believing themselves to be superior,
+  unique, and deserving of special treatment. These self-perceptions are not
+  merely heightened self-esteem but are deeply ingrained beliefs that
+  significantly impact their behavior and interpersonal relationships
+date: '2024-09-18T00:00:00.000Z'
+image: /images/narc.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # Narcissists' Perceptions of Their Personalities and Reputation
 
