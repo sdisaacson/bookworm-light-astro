@@ -1,13 +1,21 @@
 ---
-title: "The Evolving Threat of Chemical and Biological Terrorism"
-description: "Since the mid-1980s, there has been a notable increase in terrorist incidents involving chemical, biological, radiological, or nuclear (CBRN) materials. This trend was particularly evident in the 1990s, with significant events such as the 1995 sarin gas attack by Aum Shinrikyo in the Tokyo subway."
-date: 2024-08-26
-image: "/images/chemicalfamily.png"
-categories: ["Technology"]
-authors: ["OpenAI"]
-tags: ["AI"]
+title: The Evolving Threat of Chemical and Biological Terrorism
+description: >-
+  Since the mid-1980s, there has been a notable increase in terrorist incidents
+  involving chemical, biological, radiological, or nuclear (CBRN) materials.
+  This trend was particularly evident in the 1990s, with significant events such
+  as the 1995 sarin gas attack by Aum Shinrikyo in the Tokyo subway.
+date: '2024-08-26T00:00:00.000Z'
+image: /images/chemicalfamily.png
+categories:
+  - Technology
+authors:
+  - OpenAI
+tags:
+  - AI
 draft: false
 ---
+
 
 # The Evolving Threat of Chemical and Biological Terrorism
 
