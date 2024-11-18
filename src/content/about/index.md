@@ -3,15 +3,13 @@ title: >-
   Hi! My name is Scott Isaacson and I specialize in creating Autonomous AI
   Agents to 
 meta_title: About
-image: /images/author.png
+image: /355536230-ef561295-05f4-40a8-a57d-8178be687b18.png
 draft: false
 what_i_do:
-  title: stuff I do
+  title: ''
   items:
-    - title: writing
-      description: >-
-        Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus
-        eget ipsum elementum venenatis.
+    - title: Writing
+      description: The older I get the more I write. Check me out on medium.com
     - title: Photography
       description: >-
         Aenean maximus urna magna elementum, quis rutrum mi semper non purus
