@@ -5,7 +5,7 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/cover.jpg",
+    "logo": "/images/theaipapers.png",
     "logo_width": "200",
     "logo_height": "34",
     "logo_text": ""
@@ -28,8 +28,8 @@
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "",
+    "email": "scott@hitechlowlife.com",
+    "phone": ""
   }
 }
