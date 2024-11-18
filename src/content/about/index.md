@@ -10,10 +10,11 @@ what_i_do:
   items:
     - title: Writing
       description: The older I get the more I write. Check me out on medium.com
-    - title: Photography
+    - title: Tiki Culture
       description: >-
-        Aenean maximus urna magna elementum, quis rutrum mi semper non purus
-        eget ipsum venenatis.
+        From the music, to the drinks, and everything in between, I've always
+        loved the ]Tiki
+        Vibe](https://www.smithsonianmag.com/smithsonian-institution/theres-more-to-classic-tiki-than-just-kitsch-180964473/).
     - title: Web Research
       description: >-
         Aenean maximus urna magna elementum venenatis, quis semper non purus
