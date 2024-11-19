@@ -78,13 +78,13 @@ export default defineConfig({
                 name: "title",
                 label: "Section Title",
                 type: "string",
-                required: true,
+                required: false,
               },
               {
                 name: "description",
                 label: "Section Description",
                 type: "string",
-                required: true,
+                required: false,
               },
             ],
           },]
@@ -165,7 +165,7 @@ export default defineConfig({
         name: "post",
         label: "New Post",
         path: "src/content/posts",
-        format: "md",
+        format: "mdx",
         fields: [
           {
             type: "string",
