@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "The AI Papers",
-    "base_url": "https://bookworm-light-astro-rouge.vercel.app",
+    "base_url": "https://theaipapers.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
