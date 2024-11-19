@@ -1,7 +1,7 @@
 ---
 title: >-
   Hi! My name is Scott Isaacson and I specialize in creating Autonomous AI
-  Agents to 
+  Agents
 meta_title: About
 image: /355536230-ef561295-05f4-40a8-a57d-8178be687b18.png
 draft: false
