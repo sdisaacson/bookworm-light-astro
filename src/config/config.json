@@ -13,7 +13,7 @@
 
   "settings": {
     "pagination": 5,
-    "summary_length": 100
+    "summary_length": 200
   },
 
   "metadata": {
@@ -28,8 +28,8 @@
   },
 
   "contactinfo": {
-    "address": "",
+    "address": "Salem, NH",
     "email": "scott@hitechlowlife.com",
-    "phone": ""
+    "phone": "603.819.5335"
   }
 }

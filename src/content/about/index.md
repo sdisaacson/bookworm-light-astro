@@ -8,17 +8,12 @@ draft: false
 what_i_do:
   title: ''
   items:
-    - title: Writing
-      description: The older I get the more I write. Check me out on medium.com
-    - title: Tiki Culture
-      description: >-
-        From the music, to the drinks, and everything in between, I've always
-        loved the ]Tiki
-        Vibe](https://www.smithsonianmag.com/smithsonian-institution/theres-more-to-classic-tiki-than-just-kitsch-180964473/).
-    - title: Web Research
-      description: >-
-        Aenean maximus urna magna elementum venenatis, quis semper non purus
-        eget ipsum venenatis.
+    - title: ''
+      description: ''
+    - title: ''
+      description: ''
+    - title: ''
+      description: ''
 ---
 
 51 year old New England Software Developer, mushroom forager, and ballroom dancer. My favorite hobby project is working on the [GPT-Researcher](https://gptr.dev) project. GPT-Researcher is an LLM based autonomous agent that is capable of conducting local and web based research on any topic and generates a comprehensive report with citations.\
