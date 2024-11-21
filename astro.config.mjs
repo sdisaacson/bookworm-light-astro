@@ -7,29 +7,31 @@ import { defineConfig } from "astro/config";
 import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
-import { defineConfig } from 'astro/config'
-import react from '@astrojs/react'
-import tina from 'astro-tina';
-import { defineConfig } from 'astro/config'
-import react from '@astrojs/react';
-import tina from 'astro-tina'
-import vercel from '@astrojs/vercel/serverless';
+import { defineConfig } from "astro/config";
+import react from "@astrojs/react";
+import tina from "astro-tina";
+import { defineConfig } from "astro/config";
+import react from "@astrojs/react";
+import tina from "astro-tina";
+import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
   devToolbar: {
-    enabled: true
+    enabled: true,
   },
-  output: 'hybrid',
+  output: "hybrid",
   adapter: vercel({
     webAnalytics: {
       enabled: true,
     },
     maxDuration: 8,
-    isr:true,
-    imageService: true
+    isr: true,
+    imageService: true,
   }),
-  site: config.site.base_url ? config.site.base_url : "https://bookworm-light-astro-rouge.vercel.app",
+  site: config.site.base_url
+    ? config.site.base_url
+    : "https://bookworm-light-astro-rouge.vercel.app",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   image: {},

@@ -17,9 +17,9 @@ image: >-
   man at a party in the 1920s, looking uncomfortable and not having fun. He is
   surrounded by other guests dressed in .webp
 categories:
-  - '#politics'
+  - "#politics"
 tags:
-  - '#conservatism'
+  - "#conservatism"
 ---
 
 # Why Do American Conservatives Dislike Celebrities and Perceive Them as Influential?
@@ -72,11 +72,11 @@ In the end, the conservative aversion to celebrities and their influence is a co
 
 ## References
 
-* Morning Consult. (2023). Celebrities’ political opinions impact survey. Retrieved from [https://pro.morningconsult.com/analysis/celebrities-political-opinions-impact-survey](https://pro.morningconsult.com/analysis/celebrities-political-opinions-impact-survey)
-* Medium. (n.d.). The celebrity activist dilemma: Hollywood, YouTube influencers, and politics – a complex relationship. Retrieved from [https://medium.com/@createsuccesspro/the-celebrity-activist-dilemma-hollywood-youtube-influencers-and-politics-a-complex-4634855ce3fb](https://medium.com/@createsuccesspro/the-celebrity-activist-dilemma-hollywood-youtube-influencers-and-politics-a-complex-4634855ce3fb)
-* New Statesman. (2022). The hypocrisy of Hollywood liberalism. Retrieved from [https://www.newstatesman.com/culture/film/2022/01/the-hypocrisy-of-hollywood-liberalism](https://www.newstatesman.com/culture/film/2022/01/the-hypocrisy-of-hollywood-liberalism)
-* The Conversation. (2016). US election: What impact do celebrity endorsements really have? Retrieved from [https://theconversation.com/us-election-what-impact-do-celebrity-endorsements-really-have-66204](https://theconversation.com/us-election-what-impact-do-celebrity-endorsements-really-have-66204)
-* Los Angeles Times. (2017). Hollywood values updates. Retrieved from [https://www.latimes.com/entertainment/la-et-hollywood-values-updates-20170105-htmlstory.html](https://www.latimes.com/entertainment/la-et-hollywood-values-updates-20170105-htmlstory.html)
-* The Week. (2015). How conservatives learned to hate Hollywood. Retrieved from [https://theweek.com/articles/447791/how-conservatives-learned-hate-hollywood](https://theweek.com/articles/447791/how-conservatives-learned-hate-hollywood)
+- Morning Consult. (2023). Celebrities’ political opinions impact survey. Retrieved from [https://pro.morningconsult.com/analysis/celebrities-political-opinions-impact-survey](https://pro.morningconsult.com/analysis/celebrities-political-opinions-impact-survey)
+- Medium. (n.d.). The celebrity activist dilemma: Hollywood, YouTube influencers, and politics – a complex relationship. Retrieved from [https://medium.com/@createsuccesspro/the-celebrity-activist-dilemma-hollywood-youtube-influencers-and-politics-a-complex-4634855ce3fb](https://medium.com/@createsuccesspro/the-celebrity-activist-dilemma-hollywood-youtube-influencers-and-politics-a-complex-4634855ce3fb)
+- New Statesman. (2022). The hypocrisy of Hollywood liberalism. Retrieved from [https://www.newstatesman.com/culture/film/2022/01/the-hypocrisy-of-hollywood-liberalism](https://www.newstatesman.com/culture/film/2022/01/the-hypocrisy-of-hollywood-liberalism)
+- The Conversation. (2016). US election: What impact do celebrity endorsements really have? Retrieved from [https://theconversation.com/us-election-what-impact-do-celebrity-endorsements-really-have-66204](https://theconversation.com/us-election-what-impact-do-celebrity-endorsements-really-have-66204)
+- Los Angeles Times. (2017). Hollywood values updates. Retrieved from [https://www.latimes.com/entertainment/la-et-hollywood-values-updates-20170105-htmlstory.html](https://www.latimes.com/entertainment/la-et-hollywood-values-updates-20170105-htmlstory.html)
+- The Week. (2015). How conservatives learned to hate Hollywood. Retrieved from [https://theweek.com/articles/447791/how-conservatives-learned-hate-hollywood](https://theweek.com/articles/447791/how-conservatives-learned-hate-hollywood)
 
 In the grand scheme of things, the conservative critique of celebrity influence is as much about cultural identity as it is about politics. As long as celebrities continue to wield their star power in the political arena, they will remain both celebrated and scrutinized figures in the ongoing drama of American politics.
