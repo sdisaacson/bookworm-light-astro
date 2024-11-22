@@ -14,6 +14,8 @@ import { defineConfig } from "astro/config";
 import react from "@astrojs/react";
 import tina from "astro-tina";
 import vercel from "@astrojs/vercel/serverless";
+import partytown from '@astrojs/partytown'
+
 
 // https://astro.build/config
 export default defineConfig({
@@ -31,7 +33,7 @@ export default defineConfig({
   }),
   site: config.site.base_url
     ? config.site.base_url
-    : "https://bookworm-light-astro-rouge.vercel.app",
+    : "https://theaipapers.com",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   image: {},
@@ -76,4 +78,9 @@ export default defineConfig({
     },
     extendDefaultPlugins: true,
   },
-});
+},
+partytown({
+  config: {
+    forward: ["dataLayer.push"],
+  },
+}));
