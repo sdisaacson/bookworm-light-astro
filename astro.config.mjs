@@ -14,73 +14,74 @@ import { defineConfig } from "astro/config";
 import react from "@astrojs/react";
 import tina from "astro-tina";
 import vercel from "@astrojs/vercel/serverless";
-import partytown from '@astrojs/partytown'
-
+import partytown from "@astrojs/partytown";
 
 // https://astro.build/config
-export default defineConfig({
-  devToolbar: {
-    enabled: true,
-  },
-  output: "hybrid",
-  adapter: vercel({
-    webAnalytics: {
+export default defineConfig(
+  {
+    devToolbar: {
       enabled: true,
     },
-    maxDuration: 8,
-    isr: true,
-    imageService: true,
-  }),
-  site: config.site.base_url
-    ? config.site.base_url
-    : "https://theaipapers.com",
-  base: config.site.base_path ? config.site.base_path : "/",
-  trailingSlash: config.site.trailing_slash ? "always" : "never",
-  image: {},
-  integrations: [
-    react(),
-    tina(),
-    sitemap(),
-    tailwind({
-      config: {
-        applyBaseStyles: false,
+    output: "hybrid",
+    adapter: vercel({
+      webAnalytics: {
+        enabled: true,
       },
+      maxDuration: 8,
+      isr: true,
+      imageService: true,
     }),
-    AutoImport({
-      imports: [
-        "@/shortcodes/Button",
-        "@/shortcodes/Accordion",
-        "@/shortcodes/Notice",
-        "@/shortcodes/Video",
-        "@/shortcodes/Youtube",
-        "@/shortcodes/Tabs",
-        "@/shortcodes/Tab",
-      ],
-    }),
-    mdx(),
-  ],
-  redirects: {
-    "/tag/[tag]": "/tag/[tag]/1",
-  },
-  markdown: {
-    remarkPlugins: [
-      remarkToc,
-      [
-        remarkCollapse,
-        {
-          test: "Table of contents",
+    site: config.site.base_url
+      ? config.site.base_url
+      : "https://theaipapers.com",
+    base: config.site.base_path ? config.site.base_path : "/",
+    trailingSlash: config.site.trailing_slash ? "always" : "never",
+    image: {},
+    integrations: [
+      react(),
+      tina(),
+      sitemap(),
+      tailwind({
+        config: {
+          applyBaseStyles: false,
         },
-      ],
+      }),
+      AutoImport({
+        imports: [
+          "@/shortcodes/Button",
+          "@/shortcodes/Accordion",
+          "@/shortcodes/Notice",
+          "@/shortcodes/Video",
+          "@/shortcodes/Youtube",
+          "@/shortcodes/Tabs",
+          "@/shortcodes/Tab",
+        ],
+      }),
+      mdx(),
     ],
-    shikiConfig: {
-      theme: "one-dark-pro",
-      wrap: true,
+    redirects: {
+      "/tag/[tag]": "/tag/[tag]/1",
     },
-    extendDefaultPlugins: true,
+    markdown: {
+      remarkPlugins: [
+        remarkToc,
+        [
+          remarkCollapse,
+          {
+            test: "Table of contents",
+          },
+        ],
+      ],
+      shikiConfig: {
+        theme: "one-dark-pro",
+        wrap: true,
+      },
+      extendDefaultPlugins: true,
+    },
   },
-},
-partytown({
-  config: {
-    forward: ["dataLayer.push"],
-  },
-}));
+  partytown({
+    config: {
+      forward: ["dataLayer.push"],
+    },
+  }),
+);
